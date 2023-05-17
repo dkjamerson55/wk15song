@@ -1,0 +1,59 @@
+.userContainer{
+    display: flex;
+    margin: 5em;
+    border: 1px solid black;
+    border-radius: 1em;
+    background-color: rgb(255, 196, 0);
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    padding: 5px;
+    justify-content: center;
+}
+
+.Song-App{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2em;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: rgb(61, 59, 59);
+    color: white;
+    border-radius: 1rem;
+    justify-content: center;
+}
+
+.song-form{
+    margin: 2em;
+    border: 1px solid black;
+    border-radius: 1em;
+    background-color: rgb(255, 196, 0);
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    padding: 7px;
+    text-align: center;
+    align-items: center;
+}
+
+.submit{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8%;
+    margin-top: 1em;
+}
+
+.song-list{
+    font-size: x-large;
+    display: flexbox;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(241, 239, 236);
+} 
+
+.update-form{
+    display: flexbox;
+    text-align: center;
+    justify-self: right;
+}
+
